@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bunga&#039;s Blog</title>
+	<atom:link href="https://bungasa.github.io/Website-Bunga/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bungasa.github.io/Website-Bunga</link>
+	<description></description>
+	<lastBuildDate>Thu, 12 Sep 2024 05:54:27 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Tugas Individu</title>
+		<link>https://bungasa.github.io/Website-Bunga/2024/09/12/tugas-individu/</link>
+					<comments>https://bungasa.github.io/Website-Bunga/2024/09/12/tugas-individu/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 04:44:09 +0000</pubDate>
+				<category><![CDATA[Tentang Saya]]></category>
+		<guid isPermaLink="false">https://bungasa.github.io/Website-Bunga/?p=46</guid>
+
+					<description><![CDATA[Disini berisi tugas tugas saya yang saya kerjakan selama mata kuliah pengantar teknologi informasi dan komputer (PTIK)]]></description>
+										<content:encoded><![CDATA[
+<p>Disini berisi tugas tugas saya yang saya kerjakan selama mata kuliah pengantar teknologi informasi dan komputer (PTIK)</p>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://drive.google.com/drive/folders/1VJO1QOyUKqF6XlVHD9f1lUB0qZ1VU0eT
+</div></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bungasa.github.io/Website-Bunga/2024/09/12/tugas-individu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>About me</title>
+		<link>https://bungasa.github.io/Website-Bunga/2024/09/12/about-me/</link>
+					<comments>https://bungasa.github.io/Website-Bunga/2024/09/12/about-me/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 04:34:30 +0000</pubDate>
+				<category><![CDATA[Tentang Saya]]></category>
+		<guid isPermaLink="false">https://bungasa.github.io/Website-Bunga/?p=39</guid>
+
+					<description><![CDATA[Bunga Sabrina Arini 1011010]]></description>
+										<content:encoded><![CDATA[
+<p>Bunga Sabrina Arini</p>
+
+
+
+<p>1011010</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bungasa.github.io/Website-Bunga/2024/09/12/about-me/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome to my blog!!</title>
+		<link>https://bungasa.github.io/Website-Bunga/2024/09/12/welcome-to-my-blog/</link>
+					<comments>https://bungasa.github.io/Website-Bunga/2024/09/12/welcome-to-my-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2024 03:20:07 +0000</pubDate>
+				<category><![CDATA[Tentang Saya]]></category>
+		<guid isPermaLink="false">https://bungasa.github.io/Website-Bunga/?p=6</guid>
+
+					<description><![CDATA[Halo Semuanyaa, salam kenal aku bunga!! aku berumur 17 tahun, dan sekarang aku sebagai mahasiswa politeknik negeri subang dari kelas D3 SI 1B!! Saya menggunakan PC no31]]></description>
+										<content:encoded><![CDATA[
+<p>Halo Semuanyaa, salam kenal aku bunga!! aku berumur 17 tahun, dan sekarang aku sebagai mahasiswa politeknik negeri subang dari kelas D3 SI 1B!! Saya menggunakan PC no31</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://bungasa.github.io/Website-Bunga/2024/09/12/welcome-to-my-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
